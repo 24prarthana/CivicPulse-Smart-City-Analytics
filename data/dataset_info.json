@@ -1,0 +1,21 @@
+{
+  "rows": 1800,
+  "columns": [
+    "Incident_ID",
+    "Reported_At",
+    "Area",
+    "Incident_Type",
+    "Severity",
+    "Report_Source",
+    "Status",
+    "Resolution_Hours",
+    "Citizen_Rating",
+    "Estimated_Cost_INR",
+    "Latitude",
+    "Longitude"
+  ],
+  "date_min": "2025-01-01 03:38:00",
+  "date_max": "2025-12-31 16:49:00",
+  "synthetic": true,
+  "coordinates": "Illustrative coordinates clustered around a fictional demonstration city; not real incident locations."
+}
